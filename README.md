@@ -16,11 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Solution Screenshot](images/screenshot.jpg)
+![Solution Screenshot](/images/screenshot.jpg)
 
 ### Links
 
 [Solution Repo](https://github.com/billbahr/qr-code-component)
+
 [Live Site](https://billbahr.github.io/qr-code-component)
 
 ## My process
