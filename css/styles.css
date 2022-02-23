@@ -1,0 +1,15 @@
+/* variables declared here - these are the colors for our pages, as well as the font stacks and sizes. */
+:root {
+    --white: hsl(0, 0%, 100%);
+    --lightgray: hsl(212, 45%, 89%);
+    --grayblue: hsl(220, 15%, 55%); 
+    --darkblue: hsl(218, 44%, 22%); 
+    --sans: "Outfit", Helvetica, sans-serif;
+}
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
